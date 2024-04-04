@@ -5,3 +5,9 @@
 --
 vim.opt.relativenumber = true
 vim.opt.hlsearch = false
+lvim.plugins = {
+  { "sainnhe/gruvbox-material" },
+}
+lvim.colorscheme = "gruvbox-material"
+lvim.transparent_window = true
+
